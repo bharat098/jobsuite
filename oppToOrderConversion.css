@@ -1,0 +1,17 @@
+.label{
+    background-color: #54698D;
+    text-align: left;
+    color: white;
+}
+.lgc-bg {
+    background-color: rgb(242, 242, 242);
+}
+
+.lgc-bg-inverse {
+    background-color: rgb(22, 50, 92);
+}
+
+.boxSize{
+    width: 200px;
+    
+}
